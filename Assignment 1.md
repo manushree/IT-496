@@ -3,7 +3,8 @@
 <b>Group 2 Members:</b><br>
 Akash Goswami<br>
 Bin Fan<br>
-Manushree Gautam<br><br>
+Manushree Gautam<br>
+Ravi Indorey<br><br>
 
 <b>Google Drive
 
